@@ -1,0 +1,9 @@
+.player_body {
+  display: flex;
+}
+@media only screen and (max-width: 656px) {
+  .player_body {
+    background: linear-gradient(rgb(91, 87, 115), rgba(0, 0, 0, 1));
+    width: 100vw;
+  }
+}

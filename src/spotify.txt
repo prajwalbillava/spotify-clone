@@ -1,0 +1,1 @@
+https://accounts.spotify.com/en/authorize?client_id=28c65d303d3349fa9bde92d0bb2b831f&redirect_uri=http://localhost:3000/&scope=user-read-currently-playing%20user-read-recently-played%20user-read-playback-state%20user-top-read%20user-modify-playback-state&response_type=token&show_dialog=true

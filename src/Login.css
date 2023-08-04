@@ -1,0 +1,25 @@
+.login {
+  display: grid;
+  place-items: center;
+  /*display: flex;
+  align-items: center;
+  justify-content: center;*/
+  height: 100vh;
+  background-color: black;
+}
+.login > img {
+  width: 75%;
+  max-width: 600px;
+}
+.login > a {
+  padding: 20px;
+  border-radius: 99px;
+  background-color: #1db954;
+  font-weight: 800;
+  color: white;
+  text-decoration: none;
+}
+.info > h1,
+h4 {
+  color: antiquewhite;
+}
