@@ -6,8 +6,8 @@ function Login() {
   return (
     <div className="login">
       <div className="info">
-        <h1>Team Tessa</h1>
-        <h4>A Spotify Clone by Our Persons</h4>
+        <h1>Prajwal Poojary</h1>
+        <h4>A Spotify Clone by Our Prajwal</h4>
       </div>
 
       <img
