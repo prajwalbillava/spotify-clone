@@ -7,7 +7,7 @@ function Login() {
     <div className="login">
       <div className="info">
         <h1>Prajwal Poojary</h1>
-        <h4>A Spotify Clone by Our Prajwal</h4>
+        <h4>A Spotify Clone by Prajwal</h4>
       </div>
 
       <img
